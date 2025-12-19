@@ -22,6 +22,6 @@
 1. Clona este repositorio.
 . selecciona el archivo instagram_clone.sql que está en la raíz de este proyecto.
 . Coloca la carpeta en htdocs y asegúrate de que Apache y MySQL estén activos en XAMPP.
-.Ejecución: Abre http://localhost/instagram_clone/ en tu navegador.
+.Ejecución: http://localhost/instagramclone/
 5. ¡Listo para usar!
    
