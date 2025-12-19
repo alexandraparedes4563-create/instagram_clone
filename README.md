@@ -10,6 +10,7 @@
 - **Historias:** Sube historias temporales y elimínalas cuando quieras.
 - **Modo Oscuro:** Cambia el tema de la interfaz con un solo clic.
 - **Perfil Personalizable:** Cambia tu foto de perfil desde tu cuenta.
+- ojo que para acceder a una cuenta completar los campos de correo y contraseña y darle al boton de registrate.
 
 ## 🛠️ Tecnologías utilizadas
 - **Backend:** PHP 8.x
@@ -19,6 +20,8 @@
 
 ## 🚀 Cómo instalar
 1. Clona este repositorio.
-2. Importa el archivo `.sql` incluido en tu phpMyAdmin.
-3. Configura tu conexión en `db.php`.
-4. ¡Listo para usar!
+. selecciona el archivo instagram_clone.sql que está en la raíz de este proyecto.
+. Coloca la carpeta en htdocs y asegúrate de que Apache y MySQL estén activos en XAMPP.
+.Ejecución: http://localhost/instagramclone/
+5. ¡Listo para usar!
+   
