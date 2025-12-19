@@ -20,9 +20,8 @@
 
 ## 🚀 Cómo instalar
 1. Clona este repositorio.
-2. Importa el archivo `.sql` incluido en tu phpMyAdmin.
-3. Configura tu conexión en `db.php`.
-4. ¡Listo para usar!
-   ## 🔗 Enlace al Proyecto
-Puedes ver el código completo aquí: 
-[https://github.com/alexandraparedes4563-create/instagram_clone](https://github.com/alexandraparedes4563-create/instagram_clone)
+. selecciona el archivo instagram_clone.sql que está en la raíz de este proyecto.
+. Coloca la carpeta en htdocs y asegúrate de que Apache y MySQL estén activos en XAMPP.
+.Ejecución: Abre http://localhost/instagram_clone/ en tu navegador.
+5. ¡Listo para usar!
+   
