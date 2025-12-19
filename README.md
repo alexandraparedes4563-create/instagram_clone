@@ -22,3 +22,6 @@
 2. Importa el archivo `.sql` incluido en tu phpMyAdmin.
 3. Configura tu conexión en `db.php`.
 4. ¡Listo para usar!
+   ## 🔗 Enlace al Proyecto
+Puedes ver el código completo aquí: 
+[https://github.com/alexandraparedes4563-create/instagram_clone](https://github.com/alexandraparedes4563-create/instagram_clone)
